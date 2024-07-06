@@ -66,4 +66,11 @@ body{
     font-weight: 600;
     text-decoration: none;
     color: #F6F6F6;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.presentacion__enlaces__link:hover{
+    background-color: #272727;
 }
